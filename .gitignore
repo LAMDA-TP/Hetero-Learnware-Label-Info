@@ -1,0 +1,11 @@
+Hetero-learnware-label-info/benchmarks/tabzilla/datasets
+
+*.pyc
+
+*.pkl
+
+*.out
+
+Hetero-learnware-label-info/benchmarks/storage
+
+Hetero-learnware-label-info/res/*/
